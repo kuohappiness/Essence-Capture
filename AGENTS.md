@@ -1,0 +1,15 @@
+# Essence Capture 協作規則
+
+**規劃與決定看 Essence Cards**：<https://github.com/kuohappiness/Essence-Cards>（本機在 `D:\程式開發\Essence Cards`，和本資料夾並排）。
+
+- 那邊的 `AGENTS.md` 對本 repo 一體適用：北極星、文件分工、狀態標示、討論方式、AI 協作分工、Git 規則。開工先讀它，再讀 `docs/roadmap.md` 的「現在在哪裡」。
+- 三個外掛的定位與這個 repo 為什麼獨立：Essence Cards 的 `docs/decisions.md` D-076（含 2026-10-14 補充）、D-031。
+- **轉錄稿的格式是兩個外掛唯一的接點**，只寫在 Essence Cards 的 `docs/syntax.md` §1。這裡不複製，用連結引用；要改格式時，同一個對話加入兩個資料夾，兩邊一起改、各自 commit。
+- 整體進度只寫在 Essence Cards 的 `docs/roadmap.md`。本 repo 不另寫路線圖、決策紀錄或 backlog；Capture 的決定也寫成那邊的 D-ID。
+- 雛形：Essence Cards 的 `experiments/t4/`（轉錄小程式，D-076 補充 2026-10-13）。
+
+## 只屬於本 repo 的事
+
+- 這裡放程式與簡短的 README。
+- 不提交 API 金鑰、PDF、課本頁面或轉錄出來的教材（有版權）；測試結果放 repo 外。
+- 💡 開發期間這份檔案只寫指向；Capture 完成前要改成一份完整、獨立的協作規則，因為 Capture 是可以獨立使用的外掛（使用者 2026-10-20 提出，記在 Essence Cards 的 backlog）。

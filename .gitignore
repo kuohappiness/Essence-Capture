@@ -1,0 +1,5 @@
+node_modules/
+dist/
+main.js
+.claude/settings.local.json
+*.pdf
