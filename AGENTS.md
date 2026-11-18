@@ -2,7 +2,7 @@
 
 ## 底線
 
-- 這裡不寫程式，也不寫規劃文件：Capture 的開發已移到 [Essence Cards](https://github.com/kuohappiness/Essence-Cards) repo 的 [`plugins/capture/`](https://github.com/kuohappiness/Essence-Cards/tree/main/plugins/capture)（[D-208](https://github.com/kuohappiness/Essence-Cards/blob/main/docs/decisions.md#d-208-三個外掛在同一個-repo-開發每個外掛有自己的資料夾)）。
+- 這裡不寫程式，也不寫規劃文件：Capture 的開發已移到 [Essence](https://github.com/kuohappiness/Essence) repo 的 [`plugins/capture/`](https://github.com/kuohappiness/Essence/tree/main/plugins/capture)（[D-208](https://github.com/kuohappiness/Essence/blob/main/docs/decisions.md#d-208-三個外掛在同一個-repo-開發每個外掛有自己的資料夾)）。
 - 不提交 API 金鑰、PDF、課本頁面或轉錄出來的教材（有版權）；測試結果放 repo 外。
 
 ## 要開發 Capture 時
