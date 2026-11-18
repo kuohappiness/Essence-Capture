@@ -7,7 +7,7 @@
 
 ## 要開發 Capture 時
 
-本機在本資料夾旁邊的 `Essence Cards`。從那個資料夾的根目錄開對話（從子資料夾開，根目錄的設定不生效），照它的 `AGENTS.md` 開工，再讀 `plugins/capture/AGENTS.md`。
+本機在本資料夾旁邊的 `Essence`。從那個資料夾的根目錄開對話（從子資料夾開，根目錄的設定不生效），照它的 `AGENTS.md` 開工，再讀 `plugins/capture/AGENTS.md`。
 
 ## 這個 repo 之後的用途
 
